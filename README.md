@@ -236,4 +236,4 @@ This repository serves as the official landing page for PDF OCR. The software is
 **Get the most recent version of PDF OCR today!**
 
 ---
-**Last updated:** 2026-09-17 01:11:29 UTC
+**Last updated:** 2026-09-17 07:22:54 UTC
